@@ -21,3 +21,7 @@ ACM MM 2024
 An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain  
 Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han  
 IEEE WCL 2023  
+
+# Internships
+2024.01 - 2025.05, Alibaba, Taobao and Tmall Group, Hangzhou.
+
