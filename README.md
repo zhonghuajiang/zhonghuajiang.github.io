@@ -23,7 +23,7 @@ Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
 IEEE WCL 2023  
 
 # Internships
-2024.01 - 2025.05, Alibaba, Taobao and Tmall Group, Hangzhou.
+2024.01 - Present, Alibaba, Taobao and Tmall Group, Hangzhou.
 
 # Professional Services
 Conference Reviewer: ACM-MM 2024
