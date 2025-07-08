@@ -3,7 +3,7 @@
 
 # Publications
 MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference  
-Kunxi Li, **Zhonghua Jiang**, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu  
+Kunxi Li*, **Zhonghua Jiang***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu  
 ACL 2025
 
 TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting  
@@ -26,4 +26,4 @@ IEEE WCL 2023
 2024.01 - Present, Alibaba, Taobao and Tmall Group, Hangzhou.
 
 # Professional Services
-Conference Reviewer: ACM-MM 2024
+Conference Reviewer: ACM-MM 2024, ACM-MM 2025
