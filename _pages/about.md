@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student (third-year of Master-PhD Continuous Program) in the College of Computer Science at Zhejiang University. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=VsZaHKIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research interess includes Efficient AI, MLLM and LLM4HCI.
+I am a zeroth-year PhD student (second-year of Master-PhD Continuous Program) in the College of Computer Science at Zhejiang University. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=VsZaHKIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My research interess includes Efficient AI, MLLM and LLM4HCI.
 
 
 # 🔥 News
@@ -26,31 +26,38 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning  
+**Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- <a><img src="https://img.shields.io/badge/ACL -2025-blue"></a> MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.  
+  Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <a><img src="https://img.shields.io/badge/CVPR-2025_Highlight-blue"></a> TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting.  
+  Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv
+
+- <a><img src="https://img.shields.io/badge/ACM_MM-2024-blue"></a> GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting.  
+  Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
+
+- <a><img src="https://img.shields.io/badge/IEEE_WCL-2023-blue"></a> An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain.  
+  Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* graduate of Merit A Perfromance, Award of Honor for graduate.
+- *2023.08* The 2nd CCF "PILOT CUP" Quantum Computing Programming Challenge, Third Prize.
+- *2023.06* Outstanding graduate of Nanchang University.
+- *2019-2023* One-class Scholarship of Nanchang University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2028.06(prediction)*, Ph.D Student, Artificial Intelligence, Zhejiang University.
+- *2023.09 - 2025.09*, Master, Software Engineering, Zhejiang University.
+- *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Professional Services
+Conference Reviewer: ACM-MM 2024, ACM-MM 2025
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.01 - Present*,[Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
