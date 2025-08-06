@@ -61,4 +61,4 @@ FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual
 Conference Reviewer: ACM-MM 2024, ACM-MM 2025
 
 # 💻 Internships
-- *2024.01 - Present*,[Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
+- *2024.01 - Present*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
