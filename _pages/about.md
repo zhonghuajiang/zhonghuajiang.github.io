@@ -32,6 +32,8 @@ I am a zeroth-year PhD student (second-year of Master-PhD Continuous Program) in
 FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning  
 **Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu
 
+</div>
+</div>
 
 - <a><img src="https://img.shields.io/badge/ACL -2025-blue"></a> MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.  
   Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
