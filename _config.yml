@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhonghua Jiang \ \ (江中华)"
+  name             : "Zhonghua Jiang \n \ (江中华)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "ZheJiang University"
   location         : "Hangzhou, China"
