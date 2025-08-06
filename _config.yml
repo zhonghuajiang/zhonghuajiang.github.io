@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhonghua Jiang"
+title                    : "Zhonghua Jiang (江中华)"
 description              : "Second-year master in ZheJiang University. Focusing on Efficient AI and MLLM. "
 repository               : "zhonghuajiang/zhonghuajiang.github.io"
 google_scholar_stats_use_cdn : true
