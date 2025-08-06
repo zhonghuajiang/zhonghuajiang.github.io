@@ -18,10 +18,8 @@ main:
   - title: "Professional Services"
     url: "/#-Professional-Services"
 
-<!--
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
--->
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
