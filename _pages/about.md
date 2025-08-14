@@ -28,22 +28,22 @@ I am a zeroth-year PhD student (second-year of Master-PhD Continuous Program) in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning  
+[FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/)
 **Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu
 
 </div>
 </div>
 
-- <a><img src="https://img.shields.io/badge/ACL -2025-blue"></a> MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference.  
+- <a><img src="https://img.shields.io/badge/ACL -2025-blue"></a> [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/).  
   Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
 
-- <a><img src="https://img.shields.io/badge/CVPR-2025_Highlight-blue"></a> TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting.  
+- <a><img src="https://img.shields.io/badge/CVPR-2025_Highlight-blue"></a> [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/).  
   Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv
 
-- <a><img src="https://img.shields.io/badge/ACM_MM-2024-blue"></a> GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting.  
+- <a><img src="https://img.shields.io/badge/ACM_MM-2024-blue"></a> [GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://pixelai-team.github.io/GaussianTalker/).  
   Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
 
-- <a><img src="https://img.shields.io/badge/IEEE_WCL-2023-blue"></a> An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain.  
+- <a><img src="https://img.shields.io/badge/IEEE_WCL-2023-blue"></a> [An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain](https://ieeexplore.ieee.org/document/10017343).  
   Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
 
 # 🎖 Honors and Awards
