@@ -35,10 +35,10 @@ I am a zeroth-year PhD student (second-year of Master-PhD Continuous Program) in
 </div>
 
 - <a><img src="https://img.shields.io/badge/ACL -2025-blue"></a> [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/).  
-  Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
+  Kunxi Li\*, **<u>Zhonghua Jiang<\u>\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
 
 - <a><img src="https://img.shields.io/badge/CVPR-2025_Highlight-blue"></a> [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/).  
-  Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv
+  Jianchuan Chen, Jingchuan Hu, Gaige Wang, **<u>Zhonghua Jiang<\u>**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv
 
 - <a><img src="https://img.shields.io/badge/ACM_MM-2024-blue"></a> [GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://pixelai-team.github.io/GaussianTalker/).  
   Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
