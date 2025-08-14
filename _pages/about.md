@@ -28,7 +28,7 @@ I am a zeroth-year PhD student (second-year of Master-PhD Continuous Program) in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/)  
+[FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/)    
 **Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu
 
 </div>
