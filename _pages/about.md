@@ -61,4 +61,4 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 Conference Reviewer: ACM-MM 2024, ACM-MM 2025
 
 # 💻 Internships
-- *2024.01 - Present*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
+- *2024.01 - 2025.09*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
