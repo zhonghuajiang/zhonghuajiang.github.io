@@ -28,7 +28,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/) \ 
+[FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/)  
 **Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu
 
 </div>
@@ -58,7 +58,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 - *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
 # 💬 Professional Services
-Conference Reviewer: ACM-MM 2024, ACM-MM 2025
+Conference Reviewer/Program Committee: ACM-MM 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026
 
 # 💻 Internships
 - *2024.01 - 2025.09*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
