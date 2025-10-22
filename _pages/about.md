@@ -64,9 +64,5 @@ Conference Reviewer/Program Committee: ACM-MM 2024, ACM-MM 2025, MMAsia 2025, AA
 - *2024.01 - 2025.09*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
 
 <div style="text-align: center;">
-    <a href="https://mapmyvisitors.com/web/1c06l" title="Visit tracker">
-        <img src="https://mapmyvisitors.com/map.png?d=rrw4fF85b2rVhvDNSiLVW0QcD868HQGKnMSLqD7Xoz0&cl=ffffff" 
-             alt="Visit tracker" 
-             style="width: 300px;" /> <!-- 调整这里的数值可以改变图片大小 -->
-    </a>
+  <a href='https://mapmyvisitors.com/web/1c06l'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=rrw4fF85b2rVhvDNSiLVW0QcD868HQGKnMSLqD7Xoz0'/></a>
 </div>
