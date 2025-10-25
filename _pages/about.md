@@ -47,7 +47,8 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
   Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
 
 # 🎖 Honors and Awards
-- *2024.12* graduate of Merit A Performance, Award of Honor for graduate of Zhejiang University.
+- *2025.10* Excellent Practical Achievements of Graduate Students at Zhejiang University.
+- *2024.12* Graduate of Merit A Performance, Award of Honor for Graduate of Zhejiang University.
 - *2023.08* The 2nd CCF "PILOT CUP" Quantum Computing Programming Challenge, Third Prize.
 - *2023.06* Outstanding graduate of Nanchang University.
 - *2019-2023* One-class Scholarship of Nanchang University.
