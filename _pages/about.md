@@ -51,7 +51,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 - *2024.12* Graduate of Merit A Performance, Award of Honor for Graduate of Zhejiang University.
 - *2023.08* The 2nd CCF "PILOT CUP" Quantum Computing Programming Challenge, Third Prize.
 - *2023.06* Outstanding graduate of Nanchang University.
-- *2019-2023* One-class Scholarship of Nanchang University.
+- *2019-2023* Model Student Exemplar, One-class Scholarship of Nanchang University.
 
 # 📖 Educations
 - *2025.09 - 2028.06(prediction)*, Ph.D Student, Artificial Intelligence, Zhejiang University.
