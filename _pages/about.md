@@ -21,7 +21,11 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 1 paper is accepted by 2025 ACL Main.
+- *2025.05*: &nbsp;🎉🎉 1 paper accepted to ACL 2025 Main.
+- *2025.04*: &nbsp;🎉🎉 TaoAvatar selected as CVPR 2025 Highlight!
+- *2025.02*: &nbsp;🎉🎉 TaoAvatar accepted to CVPR 2025.
+- *2024.12*: &nbsp;🎉🎉 1 paper accepted to AAAI 2025.
+- *2024.05*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2024.
 
 # 📝 Publications 
 
@@ -34,7 +38,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 </div>
 </div>
 
-- <a><img src="https://img.shields.io/badge/ACL -2025-blue"></a> [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/).  
+- <a><img src="https://img.shields.io/badge/ACL-2025_Main-blue"></a> [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/).  
   Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
 
 - <a><img src="https://img.shields.io/badge/CVPR-2025_Highlight-blue"></a> [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/).  
