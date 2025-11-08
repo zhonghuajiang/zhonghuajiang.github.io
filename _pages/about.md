@@ -30,7 +30,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization](https://zhonghuajiang.github.io/)  
