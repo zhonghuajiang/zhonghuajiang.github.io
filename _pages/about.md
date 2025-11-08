@@ -21,6 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 1 paper for MLLM efficient inference accepted to AAAI 2026.
 - *2025.05*: &nbsp;🎉🎉 1 paper accepted to ACL 2025 Main.
 - *2025.04*: &nbsp;🎉🎉 TaoAvatar selected as CVPR 2025 Highlight!
 - *2025.02*: &nbsp;🎉🎉 TaoAvatar accepted to CVPR 2025.
@@ -28,6 +29,12 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 - *2024.05*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2024.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization](https://zhonghuajiang.github.io/)  
+**Zhonghua Jiang**, Kui Chen, Kunxi Li, Keting Yin, Yiyun Zhou, Zhaode Wang, Chengfei Lv, Shengyu Zhang 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
