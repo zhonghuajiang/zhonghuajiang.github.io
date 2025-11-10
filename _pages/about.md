@@ -39,6 +39,15 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/MadaKV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/)  
+Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,8 +57,10 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 </div>
 </div>
 
+<!--
 - <a><img src="https://img.shields.io/badge/ACL-2025_Main-blue"></a> [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/).  
   Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Shengyu Zhang, Fan Wu, Fei Wu
+-->
 
 - <a><img src="https://img.shields.io/badge/CVPR-2025_Highlight-blue"></a> [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/).  
   Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv
