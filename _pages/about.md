@@ -39,7 +39,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/MadaKV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/MadaKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference](https://aclanthology.org/2025.acl-long.652/)  
