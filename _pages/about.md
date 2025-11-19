@@ -33,7 +33,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization](https://zhonghuajiang.github.io/)  
+[AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization](https://arxiv.org/abs/2511.11106)  
 **Zhonghua Jiang**, Kui Chen, Kunxi Li, Keting Yin, Yiyun Zhou, Zhaode Wang, Chengfei Lv, Shengyu Zhang 
 
 </div>
