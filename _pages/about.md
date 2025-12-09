@@ -60,6 +60,15 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/)  
+Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization](https://arxiv.org/abs/2511.11106)  
 **Zhonghua Jiang**, Kui Chen, Kunxi Li, Keting Yin, Yiyun Zhou, Zhaode Wang, Chengfei Lv, Shengyu Zhang 
 
