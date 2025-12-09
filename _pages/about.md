@@ -30,11 +30,20 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AccKV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/TaoAvatar.png' alt="sym" width="100%"></div></div>  
 <div class='paper-box-text' markdown="1">
 
 [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/)  
 Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhiwen Chen, Chengfei Lv 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/GaussianTalker.png' alt="sym" width="100%"></div></div>  
+<div class='paper-box-text' markdown="1">
+
+[GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://pixelai-team.github.io/GaussianTalker/)  
+Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu 
 
 </div>
 </div>
