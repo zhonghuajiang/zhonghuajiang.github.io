@@ -84,7 +84,7 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/TaoAvatar.png' alt="sym" width="100%"></div></div>  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/TaoAvatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://pixelai-team.github.io/TaoAvatar/)  
@@ -93,7 +93,7 @@ Jianchuan Chen, Jingchuan Hu, Gaige Wang, **Zhonghua Jiang**, Tiansong Zhou, Zhi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/GaussianTalker.png' alt="sym" width="100%"></div></div>  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/GaussianTalker.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://pixelai-team.github.io/GaussianTalker/)  
