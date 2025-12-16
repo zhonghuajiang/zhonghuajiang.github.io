@@ -97,8 +97,8 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 - *2019-2023* Model Student Exemplar, Special-class Scholarship of Nanchang University.
 
 # 📖 Educations
-- *2025.09 - 2028.06(prediction)*, Ph.D Student, Artificial Intelligence, Zhejiang University.
-- *2023.09 - 2025.09*, Master, Software Engineering, Zhejiang University.
+- *2025.09 - 2028.06(prediction)*, Ph.D Student, Artificial Intelligence, the State Key Lab of CAD&CG, Zhejiang University.
+- *2023.09 - 2025.09*, Master, Software Engineering, Institute of Artificial Intelligence, Zhejiang University.
 - *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
 # 💬 Professional Services
@@ -106,6 +106,7 @@ Conference Reviewer/Program Committee: ACM-MM 2024, ACM-MM 2025, MMAsia 2025, AA
 
 # 💻 Internships
 - *2024.01 - 2025.09*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
+- *2023.09 - 2024.01*, [Shanghai Institute for Advanced Study - Zhejiang University](http://sias.zju.edu.cn/main.htm).
 
 <div style="text-align: center;">
   <a href='https://mapmyvisitors.com/web/1c06l'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=rrw4fF85b2rVhvDNSiLVW0QcD868HQGKnMSLqD7Xoz0'/></a>
