@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student (third-year of Master-PhD Continuous Program) in the College of Computer Science at Zhejiang University. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=VsZaHKIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My research interess includes Efficient AI, MLLM and LLM4HCI.
+I am a first-year PhD student (third-year of Master-PhD Continuous Program) in the College of Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/). I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=VsZaHKIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My research interess includes Efficient AI, MLLM and LLM4HCI.
 
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 1 paper for MLLM efficient inference accepted to AAAI 2026.
 - *2025.05*: &nbsp;🎉🎉 1 paper accepted to ACL 2025 Main.
-- *2025.04*: &nbsp;🎉🎉 TaoAvatar selected as CVPR 2025 Highlight!
+- *2025.04*: &nbsp;🎉🎉 TaoAvatar selected as CVPR 2025 <span style="color:red">**Highlight**</span>!
 - *2025.02*: &nbsp;🎉🎉 TaoAvatar accepted to CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 1 paper accepted to AAAI 2025.
 - *2024.05*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2024.
