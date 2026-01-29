@@ -21,6 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 1 paper for MLLM efficient inference accepted to AAAI 2026.
 - *2025.05*: &nbsp;🎉🎉 1 paper accepted to ACL 2025 Main.
 - *2025.04*: &nbsp;🎉🎉 TaoAvatar selected as CVPR 2025 <span style="color:red">**Highlight**</span>!
@@ -53,6 +54,15 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 
 [FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/)  
 **Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/inhernet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Student: An Asymmetric Network for Neural Network Inheritance](https://openreview.net/forum?id=mp67iSM7qn)  
+Yiyun Zhou, Jingwei Shi, Mingjing Xu, **Zhonghua Jiang**, Jingyuan Chen 
 
 </div>
 </div>
