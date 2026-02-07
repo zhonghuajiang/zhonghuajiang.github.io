@@ -102,6 +102,7 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 # 🎖 Honors and Awards
 - *2025.10* Excellent Practical Achievements of Graduate Students at Zhejiang University.
 - *2024.12* Graduate of Merit A Performance, Award of Honor for Graduate of Zhejiang University.
+- *2024.10* RSNA 2024 Lumbar Spine Degenerative Classification in Kaggle, Silver Medal.
 - *2023.08* The 2nd CCF "PILOT CUP" Quantum Computing Programming Challenge, Third Prize.
 - *2023.06* Outstanding graduate of Nanchang University.
 - *2019-2023* Model Student Exemplar, Special-class Scholarship of Nanchang University.
