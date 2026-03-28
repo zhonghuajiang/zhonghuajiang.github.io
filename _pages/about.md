@@ -67,6 +67,15 @@ Yiyun Zhou, Jingwei Shi, Mingjing Xu, **Zhonghua Jiang**, Jingyuan Chen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SARe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SARe: Structure-Aware Large-Scale 3D Fragment Reassembly](https://cyber-loafing.github.io/SARe/)  
+Hanze Jia, Chunshi Wang, Yuxiao Yang, **Zhonghua Jiang**, Yawei Luo, Shuainan Ye, Tan Tang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/TaoAvatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
