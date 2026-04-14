@@ -21,6 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 1 paper accepted to ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 1 paper for MLLM efficient inference accepted to AAAI 2026.
 - *2025.05*: &nbsp;🎉🎉 1 paper accepted to ACL 2025 Main.
@@ -104,6 +105,9 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 - <a><img src="https://img.shields.io/badge/ACM_MM-2024-blue"></a> [GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://pixelai-team.github.io/GaussianTalker/).  
   Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
 -->
+
+- <a><img src="https://img.shields.io/badge/ACL-2026-blue"></a> [RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction].  
+  Sihao Liu, YuFan Xiong, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/IEEE_WCL-2023-blue"></a> [An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain](https://ieeexplore.ieee.org/document/10017343).  
   Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
