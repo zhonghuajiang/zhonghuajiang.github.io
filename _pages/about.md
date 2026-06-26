@@ -123,7 +123,7 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
   Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
 
 # 🎖 Honors and Awards
-- *2025.10* Excellent Practical Achievements of Graduate Students at Zhejiang University.
+- *2025.10* Excellent Practical Achievements of Graduate Students at Zhejiang University, First Prize.
 - *2024.12* Graduate of Merit A Performance, Award of Honor for Graduate of Zhejiang University.
 - *2024.10* RSNA 2024 Lumbar Spine Degenerative Classification in Kaggle, Silver Medal.
 - *2023.08* The 2nd CCF "PILOT CUP" Quantum Computing Programming Challenge, Third Prize.
@@ -136,7 +136,7 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 - *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
 # 💬 Professional Services
-- Reviewer/Program Committee of Conferences: ACM-MM 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026, ACM-MM 2026  
+- Reviewer/Program Committee of Conferences: ACM-MM 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027  
 - Invited Reviewer of Journals: IEEE Transactions on Fuzzy Systems (TFS)
 
 # 💻 Internships
