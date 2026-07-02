@@ -136,7 +136,7 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 - *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
 # 💬 Professional Services
-- Reviewer/Program Committee of Conferences: ACM-MM 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027  
+- Reviewer/Program Committee of Conferences: ACM-MM 2024, MMAsia 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027  
 - Invited Reviewer of Journals: IEEE Transactions on Fuzzy Systems (TFS)
 
 # 💻 Internships
