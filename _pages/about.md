@@ -21,6 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026.
 - *2026.05*: &nbsp;🎉🎉 1 paper accepted to IJCAI 2026.
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted to ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
@@ -116,7 +117,10 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
   Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
 -->
 
-- <a><img src="https://img.shields.io/badge/ACL-2026-blue"></a> [RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction](https://zhonghuajiang.github.io/).  
+- <a><img src="https://img.shields.io/badge/ACM_MM-2026-blue"></a> [VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/).  
+  YuFan Xiong, Kunxi Li, Sihao Liu, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
+
+- <a><img src="https://img.shields.io/badge/ACL-2026-blue"></a> [RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction](https://aclanthology.org/2026.findings-acl.934/).  
   Sihao Liu, YuFan Xiong, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/IEEE_WCL-2023-blue"></a> [An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain](https://ieeexplore.ieee.org/document/10017343).  
@@ -136,8 +140,10 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 - *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
 # 💬 Professional Services
-- Reviewer/Program Committee of Conferences: ACM-MM 2024, MMAsia 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027  
-- Invited Reviewer of Journals: IEEE Transactions on Fuzzy Systems (TFS)
+- **Reviewer/Program Committee of Conferences:** ACM-MM 2024, MMAsia 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027  
+- **Invited Reviewer of Journals:**
+  - IEEE Transactions on Fuzzy Systems (TFS)
+  - Transactions on Machine Learning Research (TMLR)
 
 # 💻 Internships
 - *2024.01 - 2025.09*, [Alibaba, Taobao and Tmall Group](https://talent.taotian.com/)  <img src='./images/ali.png' style="width: 5em;">, Hangzhou.
