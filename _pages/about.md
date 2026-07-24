@@ -22,7 +22,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026 **Oral**.
-- *2026.05*: &nbsp;🎉🎉 1 paper accepted to IJCAI 2026.
+- *2026.05*: &nbsp;🎉🎉 1 paper accepted to IJCAI 2026 **Oral**.
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted to ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 1 paper for MLLM efficient inference accepted to AAAI 2026.
@@ -61,7 +61,7 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/a3b2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (Oral)</div><img src='images/a3b2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A$_3$B$_2$: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning](https://arxiv.org/abs/2605.13161)  
