@@ -21,7 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026.
+- *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026 Oral.
 - *2026.05*: &nbsp;🎉🎉 1 paper accepted to IJCAI 2026.
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted to ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
@@ -117,7 +117,7 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
   Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
 -->
 
-- <a><img src="https://img.shields.io/badge/ACM_MM-2026-blue"></a> [VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/).  
+- <a><img src="https://img.shields.io/badge/ACM_MM_(Oral)-2026-blue"></a> [VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/).  
   YuFan Xiong, Kunxi Li, Sihao Liu, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/ACL-2026-blue"></a> [RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction](https://aclanthology.org/2026.findings-acl.934/).  
