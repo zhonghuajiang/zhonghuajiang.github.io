@@ -21,7 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026 Oral.
+- *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026 **Oral**.
 - *2026.05*: &nbsp;🎉🎉 1 paper accepted to IJCAI 2026.
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted to ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
