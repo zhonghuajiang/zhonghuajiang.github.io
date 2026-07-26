@@ -61,7 +61,7 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026 (Oral)</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026 (Oral)</div><img src='images/VertiKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/)  
@@ -79,7 +79,7 @@ Yiyun Zhou, **Zhonghua Jiang**, Wenkang Han, Kunxi Li, Mingjing Xu, Chang Yao, J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/RetentiveKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction](https://aclanthology.org/2026.findings-acl.934/).  
