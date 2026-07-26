@@ -61,11 +61,29 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026 (Oral)</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/)  
+YuFan Xiong, Kunxi Li, Sihao Liu, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (Oral)</div><img src='images/a3b2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A$_3$B$_2$: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning](https://arxiv.org/abs/2605.13161)  
 Yiyun Zhou, **Zhonghua Jiang**, Wenkang Han, Kunxi Li, Mingjing Xu, Chang Yao, Jingyuan Chen
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/FedCFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction](https://aclanthology.org/2026.findings-acl.934/).  
+Sihao Liu, YuFan Xiong, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
 
 </div>
 </div>
@@ -115,13 +133,13 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 
 - <a><img src="https://img.shields.io/badge/ACM_MM-2024-blue"></a> [GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://pixelai-team.github.io/GaussianTalker/).  
   Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, chengfei lv, Gang Yu
--->
 
 - <a><img src="https://img.shields.io/badge/ACM_MM_(Oral)-2026-blue"></a> [VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/).  
   YuFan Xiong, Kunxi Li, Sihao Liu, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/ACL-2026-blue"></a> [RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction](https://aclanthology.org/2026.findings-acl.934/).  
   Sihao Liu, YuFan Xiong, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang
+-->
 
 - <a><img src="https://img.shields.io/badge/IEEE_WCL-2023-blue"></a> [An Improved Spectrum Trading Design Based on Dynamic Credit Aggregate-Signature Blockchain](https://ieeexplore.ieee.org/document/10017343).  
   Yingan Zhou, Lisu Yu, **Zhonghua Jiang**, Zhongkuan Zhi, Jiawen Kang, Zhu Han
