@@ -62,7 +62,7 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 (Main)</div><img src='images/FlowMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/FlowMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FlowMM: Cross-Modal Information Flow Guided Kv Cache Merging for Efficient Multimodal Context Inference](https://arxiv.org/abs/2511.05534)  
