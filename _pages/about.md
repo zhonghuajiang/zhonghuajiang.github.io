@@ -21,6 +21,7 @@ I am a first-year PhD student (third-year of Master-PhD Continuous Program) in t
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 1 paper accepted to EMNLP 2026 Main.
 - *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026 <span style="color:red">**Oral**</span>!
 - *2026.05*: &nbsp;🎉🎉 1 paper accepted to IJCAI 2026 <span style="color:red">**Oral**</span>!
 - *2026.04*: &nbsp;🎉🎉 1 paper accepted to ACL 2026.
@@ -57,6 +58,15 @@ Kunxi Li\*, **Zhonghua Jiang\***, Zhouzhou Shen, Zhaode Wang, chengfei lv, Sheng
 
 [FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning](https://github.com/hua-zi/FedCFA/)  
 **Zhonghua Jiang**, Jimin Xu, Shengyu Zhang, Tao Shen, Jiwei Li, Kun Kuang, Haibin Cai, Fei Wu 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 (Main)</div><img src='images/FlowMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlowMM: Cross-Modal Information Flow Guided Kv Cache Merging for Efficient Multimodal Context Inference](https://arxiv.org/abs/2511.05534)  
+Kunxi Li, Yufan Xiong, **Zhonghua Jiang**, Yiyun Zhou, Zhaode Wang, Chengfei Lv, Shengyu Zhang 
 
 </div>
 </div>
