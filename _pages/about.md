@@ -74,7 +74,7 @@ Kunxi Li, Yufan Xiong, **Zhonghua Jiang**, Yiyun Zhou, Zhaode Wang, Chengfei Lv,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026 (Oral)</div><img src='images/VertiKV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://zhonghuajiang.github.io/)  
+[VertiKV: Vertical-Integrity KV Cache Compression for Efficient Multimodal Long-Context Inference](https://dl.acm.org/doi/10.1145/3767308.3835781)  
 YuFan Xiong, Kunxi Li, Sihao Liu, **Zhonghua Jiang**, Zhaode Wang, chengfei lv, Shengyu Zhang 
 
 </div>
@@ -168,7 +168,7 @@ Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, **Zhonghua Jiang**, Zhiwen Chen,
 - *2019.09 - 2023.06*, Undergraduate, Internet of Things Engineering, Nanchang University. 
 
 # 💬 Professional Services
-- **Reviewer/Program Committee of Conferences:** ACM-MM 2024, MMAsia 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027, ICLR 2027  
+- **Reviewer/Program Committee of Conferences:** ACM-MM 2024, MMAsia 2024, ACM-MM 2025, MMAsia 2025, AAAI 2026, ICML 2026(outstanding reviewer), ACM-MM 2026, AAAI 2027, ICLR 2027, WWW 2027  
 - **Invited Reviewer of Journals:**
   - IEEE Transactions on Fuzzy Systems (TFS)
   - Transactions on Machine Learning Research (TMLR)
