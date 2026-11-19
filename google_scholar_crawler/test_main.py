@@ -6,6 +6,14 @@ from pathlib import Path
 from unittest.mock import patch
 
 import main
+import direct_profile
+
+PROFILE = """<div id="gsc_prf_in">Test Author</div>
+<table id="gsc_rsb_st"><tr><td class="gsc_rsb_std">0</td></tr></table>
+<table><tbody id="gsc_a_b"><tr class="gsc_a_tr">
+<td><a class="gsc_a_at" href="/citations?citation_for_view=author:paper">Paper</a></td>
+<td><a class="gsc_a_ac"></a></td></tr></tbody></table>
+<button id="gsc_bpf_more" disabled></button>"""
 
 
 class ScholarStatsTests(unittest.TestCase):
@@ -18,11 +26,7 @@ class ScholarStatsTests(unittest.TestCase):
             self.assertEqual(main.get_scholar_id(), 'override-id')
 
     def test_fetch_and_write_preserve_publication_keys_and_zero_citations(self):
-        author = {'name': 'Test Author', 'citedby': 0, 'publications': [
-            {'author_pub_id': 'author:paper', 'num_citations': 0}
-        ]}
-        with patch.object(main.scholarly, 'search_author_id', return_value=author), \
-             patch.object(main.scholarly, 'fill'):
+        with patch.object(direct_profile, 'read_profile_page', return_value=PROFILE):
             data = main.fetch_stats('author')
         self.assertEqual(data['publications']['author:paper']['num_citations'], 0)
         self.assertTrue(data['updated'].endswith('+00:00'))
@@ -38,12 +42,25 @@ class ScholarStatsTests(unittest.TestCase):
         self.assertEqual(badge['message'], '0')
 
     def test_incomplete_crawl_is_rejected(self):
-        for author in [{'publications': []}, {'citedby': -1, 'publications': []}, {'citedby': 12}]:
-            with self.subTest(author=author), \
-                 patch.object(main.scholarly, 'search_author_id', return_value=author), \
-                 patch.object(main.scholarly, 'fill'):
+        for html in ['<html>captcha</html>', PROFILE.replace('>0</td>', '>invalid</td>'),
+                     PROFILE.replace('author:paper', 'other:paper')]:
+            with self.subTest(html=html), \
+                 patch.object(direct_profile, 'read_profile_page', return_value=html):
                 with self.assertRaises(ValueError):
                     main.fetch_stats('author')
+
+    def test_pagination_collects_all_publications(self):
+        first = PROFILE.replace('disabled', '')
+        second = PROFILE.replace('author:paper', 'author:second')
+        with patch.object(direct_profile, 'read_profile_page', side_effect=[first, second]) as read:
+            data = main.fetch_stats('author')
+        self.assertEqual(set(data['publications']), {'author:paper', 'author:second'})
+        self.assertEqual(read.call_args_list[1].args, ('author', 100))
+
+    def test_repeated_pagination_is_rejected(self):
+        with patch.object(direct_profile, 'read_profile_page', return_value=PROFILE.replace('disabled', '')):
+            with self.assertRaisesRegex(ValueError, 'pagination did not advance'):
+                main.fetch_stats('author')
 
 
 if __name__ == '__main__':

@@ -1,10 +1,9 @@
 import json
 import os
 import re
-from datetime import datetime, timezone
 from pathlib import Path
 
-from scholarly import scholarly
+from direct_profile import fetch_stats
 
 
 def get_scholar_id():
@@ -18,24 +17,6 @@ def get_scholar_id():
             raise ValueError('Set GOOGLE_SCHOLAR_ID or author.googlescholar in _config.yml')
         scholar_id = match.group(1)
     return scholar_id
-
-
-def fetch_stats(scholar_id):
-    scholarly.set_timeout(30)
-    scholarly.set_retries(2)
-    author = scholarly.search_author_id(scholar_id)
-    scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-    # Do not replace a successful snapshot with an incomplete response.
-    if not isinstance(author.get('citedby'), int) or author['citedby'] < 0:
-        raise ValueError('Google Scholar returned no valid citation total')
-    if not isinstance(author.get('publications'), list):
-        raise ValueError('Google Scholar returned no publication list')
-    author['publications'] = {
-        publication['author_pub_id']: publication
-        for publication in author['publications']
-    }
-    author['updated'] = datetime.now(timezone.utc).isoformat()
-    return author
 
 
 def write_stats(author, output_dir):
