@@ -4,6 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
+from urllib.error import HTTPError
 
 import main
 import direct_profile
@@ -60,6 +61,12 @@ class ScholarStatsTests(unittest.TestCase):
     def test_repeated_pagination_is_rejected(self):
         with patch.object(direct_profile, 'read_profile_page', return_value=PROFILE.replace('disabled', '')):
             with self.assertRaisesRegex(ValueError, 'pagination did not advance'):
+                main.fetch_stats('author')
+
+    def test_forbidden_response_reports_required_network_change(self):
+        error = HTTPError('https://scholar.google.com/citations', 403, 'Forbidden', {}, None)
+        with patch.object(direct_profile, 'urlopen', side_effect=error):
+            with self.assertRaisesRegex(RuntimeError, 'HTTP 403'):
                 main.fetch_stats('author')
 
 

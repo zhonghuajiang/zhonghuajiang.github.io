@@ -1,5 +1,6 @@
 """Read citation counts from the public Google Scholar profile HTML."""
 from datetime import datetime, timezone
+from urllib.error import HTTPError
 from urllib.parse import parse_qs, urlencode, urlparse
 from urllib.request import Request, urlopen
 
@@ -9,8 +10,17 @@ from bs4 import BeautifulSoup
 def read_profile_page(scholar_id, start):
     query = urlencode({'user': scholar_id, 'hl': 'en', 'pagesize': 100, 'cstart': start})
     request = Request('https://scholar.google.com/citations?' + query)
-    with urlopen(request, timeout=30) as response:
-        return response.read()
+    try:
+        with urlopen(request, timeout=30) as response:
+            return response.read()
+    except HTTPError as error:
+        if error.code == 403:
+            raise RuntimeError(
+                'Google Scholar refused access from this network (HTTP 403). '
+                'Run google_scholar_crawler/update.py locally, or use an accessible '
+                'self-hosted runner. No citation data was published.'
+            ) from error
+        raise
 
 
 def parse_profile_page(html, scholar_id):

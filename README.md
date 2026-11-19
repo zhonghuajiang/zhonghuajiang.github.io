@@ -36,7 +36,7 @@ Some examples:
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
     1. Set `author.googlescholar` in `_config.yml` to your Google Scholar profile URL. The crawler reads the ID from this URL. An optional `GOOGLE_SCHOLAR_ID` Actions secret overrides it.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. The workflow runs after page builds, on crawler/configuration changes, and daily at 08:17 UTC (16:17 China time). You can also run it from `Actions -> Get Citation Data -> Run workflow`. It explicitly requests `contents: write` to publish the data branch. Failed crawls leave the previous snapshot intact.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. The workflow runs on crawler/configuration changes and daily at 08:17 UTC (16:17 China time). You can also run it from `Actions -> Get Citation Data -> Run workflow`. It explicitly requests `contents: write` to publish the data branch. Failed crawls leave the previous snapshot intact.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -74,3 +74,11 @@ Some examples:
 Citation data is loaded directly from GitHub by default to avoid CDN branch caching. Set `google_scholar_stats_use_cdn: true` to use jsDelivr with a direct-GitHub fallback. The homepage badge refreshes from the same data as publication counts.
 
 Running `python google_scholar_crawler/main.py` also updates `_data/google_scholar_stats.json`. Local previews on localhost/127.0.0.1 use this snapshot; restart Jekyll and refresh after the first crawl. Published pages use it immediately while fetching the current GitHub data.
+
+Google Scholar currently returns HTTP 403 to this repository's GitHub-hosted runner. A successful website deployment does not mean citation fetching succeeded. To refresh from a network that can access the public profile, install `google_scholar_crawler/requirements.txt` and run:
+
+```bash
+python google_scholar_crawler/update.py
+```
+
+This fetches fresh counts, validates the profile, and pushes only `gs_data.json` and `gs_data_shieldsio.json` to `google-scholar-stats`; it does not publish old cached data after a fetch error. The ordinary working tree and `main` branch are not committed by this command. For GitHub-scheduled fetching, configure an accessible self-hosted runner and set the repository Actions variable `SCHOLAR_RUNNER` to that runner's custom label. Without such a runner, the hosted job may continue to fail with HTTP 403.

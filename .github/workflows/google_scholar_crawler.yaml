@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ${{ vars.SCHOLAR_RUNNER || 'ubuntu-latest' }}
     timeout-minutes: 5
     steps:
     - uses: actions/checkout@v4
