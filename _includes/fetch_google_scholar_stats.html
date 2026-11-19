@@ -1,19 +1,44 @@
 <script>
     $(document).ready(function () {
+        var rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json';
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var dataUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json';
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        var dataUrl = rawUrl;
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+
+        function renderStats(data) {
+            if (!data || typeof data.citedby !== 'number') return;
+            var total = document.getElementById('total_cit');
+            if (total) total.textContent = data.citedby;
+            var badge = document.getElementById('total_cit_badge');
+            if (badge) {
+                badge.src = 'https://img.shields.io/badge/citations-' + data.citedby + '-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat';
+                badge.alt = 'Google Scholar citations: ' + data.citedby;
+                badge.title = 'Updated: ' + (data.updated || 'unknown');
+            }
+            var publications = data.publications || {};
+            Array.prototype.forEach.call(document.getElementsByClassName('show_paper_citations'), function (element) {
+                var paper = publications[element.getAttribute('data')];
+                if (paper && typeof paper.num_citations === 'number') {
+                    element.textContent = '| Citations: ' + paper.num_citations;
+                }
             });
+        }
+
+        function loadStats(url) {
+            return $.ajax({ url: url, dataType: 'json', cache: false, timeout: 10000 }).done(renderStats);
+        }
+        {% if site.data.google_scholar_stats %}
+        var snapshot = {{ site.data.google_scholar_stats | jsonify }};
+        renderStats(snapshot);
+        var hostname = window.location.hostname;
+        if (hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '[::1]' || hostname === '') {
+            return;
+        }
+        {% endif %}
+        loadStats(dataUrl).fail(function () {
+            if (dataUrl !== rawUrl) loadStats(rawUrl);
         });
-    })
+    });
 </script>

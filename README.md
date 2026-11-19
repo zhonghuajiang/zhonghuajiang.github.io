@@ -35,8 +35,8 @@ Some examples:
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+    1. Set `author.googlescholar` in `_config.yml` to your Google Scholar profile URL. The crawler reads the ID from this URL. An optional `GOOGLE_SCHOLAR_ID` Actions secret overrides it.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. The workflow runs after page builds, on crawler/configuration changes, and daily at 08:17 UTC (16:17 China time). You can also run it from `Actions -> Get Citation Data -> Run workflow`. It explicitly requests `contents: write` to publish the data branch. Failed crawls leave the previous snapshot intact.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -60,7 +60,7 @@ Some examples:
 
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Run `bash run_server.sh` to start the Jekyll LiveReload server. On Windows, run it in WSL Ubuntu, or use `wsl -d Ubuntu-22.04 --exec bash run_server.sh` from PowerShell. Startup may take 1-3 minutes while gems load from the Windows drive. The launcher includes Ruby 3 compatibility for the pinned pathutil version and enables polling for file changes.
 1. Open http://127.0.0.1:4000 in your browser.
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
@@ -70,3 +70,7 @@ Some examples:
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+
+Citation data is loaded directly from GitHub by default to avoid CDN branch caching. Set `google_scholar_stats_use_cdn: true` to use jsDelivr with a direct-GitHub fallback. The homepage badge refreshes from the same data as publication counts.
+
+Running `python google_scholar_crawler/main.py` also updates `_data/google_scholar_stats.json`. Local previews on localhost/127.0.0.1 use this snapshot; restart Jekyll and refresh after the first crawl. Published pages use it immediately while fetching the current GitHub data.

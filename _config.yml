@@ -9,7 +9,7 @@
 title                    : "Zhonghua Jiang (江中华)"
 description              : "Second-year PhD student in Zhejiang University. Focusing on Efficient AI and MLLM. "
 repository               : "zhonghuajiang/zhonghuajiang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -67,6 +67,8 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - scripts
+  - run_server.sh
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

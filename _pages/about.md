@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student (fourth-year of Master-PhD Continuous Program) in the College of Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/). I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=VsZaHKIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My research interess includes Efficient AI, MLLM and Vision Understanding.
+I am a second-year PhD student (fourth-year of Master-PhD Continuous Program) in the College of Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/). I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=VsZaHKIAAAAJ'><img id="total_cit_badge" alt="Google Scholar citations" src="https://img.shields.io/endpoint?url={{ url | url_encode }}&cacheSeconds=300&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My research interess includes Efficient AI, MLLM and Vision Understanding.
 
 
 # 🔥 News

@@ -1,3 +1,9 @@
 _site/
 push.sh
 .DS_Store
+
+# Local Ruby dependencies and Bundler settings
+.bundle/
+vendor/bundle/
+.jekyll-cache/
+.jekyll-metadata
