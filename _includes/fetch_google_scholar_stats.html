@@ -7,8 +7,12 @@
         var dataUrl = rawUrl;
         {% endif %}
 
+        var latestUpdate = null;
         function renderStats(data) {
             if (!data || typeof data.citedby !== 'number') return;
+            var updated = Date.parse(String(data.updated || '').replace(' ', 'T'));
+            if (latestUpdate !== null && (!isFinite(updated) || updated < latestUpdate)) return;
+            if (isFinite(updated)) latestUpdate = updated;
             var total = document.getElementById('total_cit');
             if (total) total.textContent = data.citedby;
             var badge = document.getElementById('total_cit_badge');
